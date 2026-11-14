@@ -7,4 +7,5 @@ A collection of Java programming solutions demonstrating algorithmic problem-sol
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
