@@ -9,6 +9,7 @@ A collection of Java programming solutions demonstrating algorithmic problem-sol
 | [0007-reverse-integer](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ A collection of Java programming solutions demonstrating algorithmic problem-sol
 | [0014-longest-common-prefix](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0066-plus-one/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
