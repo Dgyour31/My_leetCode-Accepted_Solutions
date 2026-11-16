@@ -15,6 +15,7 @@ A collection of Java programming solutions demonstrating algorithmic problem-sol
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ A collection of Java programming solutions demonstrating algorithmic problem-sol
 | [0027-remove-element](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0054-spiral-matrix](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Dgyour31/My_leetCode-Accepted_Solutions/tree/main/0066-plus-one/) | Easy |
